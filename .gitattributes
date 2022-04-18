@@ -1,0 +1,12 @@
+. filter=lfs diff=lfs merge=lfs -text
+config.json filter=lfs diff=lfs merge=lfs -text
+mirai.js filter=lfs diff=lfs merge=lfs -text
+package-lock.json filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+appstate.json filter=lfs diff=lfs merge=lfs -text
+login.js filter=lfs diff=lfs merge=lfs -text
+replit_zip_error_log.txt filter=lfs diff=lfs merge=lfs -text
+FastConfigFca.json filter=lfs diff=lfs merge=lfs -text
+index.js filter=lfs diff=lfs merge=lfs -text
+librsvg-2.so.2 filter=lfs diff=lfs merge=lfs -text
